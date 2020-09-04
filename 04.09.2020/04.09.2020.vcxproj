@@ -144,6 +144,9 @@
   <ItemGroup>
     <ClInclude Include="StringFunctions.hpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="пример.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
